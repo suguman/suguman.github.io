@@ -1,0 +1,15 @@
+@inproceedings{BACMSRCPOPL,
+title={Reasoning about Incentive Compatibility},
+author={Bansal, S.},
+year={2016},
+booktitle={ACM Student Reseach Competition (ACM-SRC) co-located at POPL 2016},
+abstract={We study equilibrium computation in regular repeated games, a
+model of infinitely repeated, discounted, general-sum games where
+agent strategies are given by a finite automaton. Our goal is to compute,
+for subsequent querying and analysis, the set of all Nash equilibria
+in such a game. Our technical contribution is an algorithm
+for computing all Nash equilibria in a regular repeated game. We
+use our algorithm for automated analysis of properties such as incentive
+compatibility on complex multi-agent systems with reward
+maximizing agents, such as the Bitcoin protocol.}
+}

@@ -1,0 +1,17 @@
+@inproceedings{BNSCAV18,
+title={Synthesis Of Asynchronous Reactive Programs From Temporal Specications},
+author={Bansal, S. and  Namjoshi, K. S. and  Sa'ar, Y.},
+booktitle={In proceedings of International Conference on Computer Aided Verification}
+year={2018},
+abstract={Asynchronous interactions are ubiquitous in computing systems
+and complicate design and programming. Automatic construction
+of asynchronous programs from specifications (“synthesis”) could ease
+the difficulty, but known methods are complex, and intractable in practice.
+This work develops substantially simpler synthesis methods. A direct,
+exponentially more compact automaton construction is formulated
+for the reduction of asynchronous to synchronous synthesis. Experiments
+with a prototype implementation of the new method demonstrate practical
+feasibility. Furthermore, it is shown that for several useful classes
+of temporal properties, automaton-based methods can be avoided altogether
+and replaced with simpler Boolean constraint solving.}
+}

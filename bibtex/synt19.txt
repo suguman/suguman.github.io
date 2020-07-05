@@ -1,0 +1,8 @@
+@inproceedings{BNSSYNT19,
+title={Co-ordination Synthesis},
+author={Bansal, S. and  Namjoshi, K S. and  Sa'ar, Y.},
+booktitle={Workshop on Synthesis co-located at CAV 2019}
+year={2019},
+abstract={The design of a coordinator for multiple, independent, reactive agents is a complex task. {\em Coordination synthesis} is the automated construction of a coordinator from a specification and behavioral description of the reactive agents. Prior work on coordination synthesis make use of two critical assumptions: (a). all reactive agents are synchronized, (b). the coordinator has complete information about the reactive agents. However, we argue that realistic multi-agent scenarios violate both of these assumptions, rendering existing techniques unsuitable for coordination synthesis. To this end, this work presents an algorithm for coordination synthesis with {\em both } asynchrony and partial information. Our synthesis procedure uses high-level languages for specifications and agents, namely we use linear temporal properties for specifications  and Communicating Sequential Processes (CSPs) for the reactive agents.
+}
+}

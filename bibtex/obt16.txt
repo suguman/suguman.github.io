@@ -1,0 +1,14 @@
+@inproceedings{BCOBT16,
+title={{\it Chanakya}: Computer-Aided Strategic Reasoning},
+author={Bansal, S. and  Chaudhuri, S.},
+year={2016},
+booktitle={Off the Beaten Track, Workshop co-located at POPL 2016},
+abstract={This paper introduces Chanakya, an attempt to use tools and techniques from formal methods to automatically design and analyze
+game-theoretic models of strategic multiagent interactions. Here,
+we discuss two problems of automatic characterization of a game
+under a given notion of rationality. First, we show how tools from
+automata theory can be used to completely characterize the set of
+Nash equilibria of infinitely repeated games. Second, we show how
+to use the theory of vector addition systems in the characterization
+of evolutionary stability of evolutionary games.}
+}

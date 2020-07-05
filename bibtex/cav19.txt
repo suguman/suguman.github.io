@@ -1,0 +1,9 @@
+@inproceedings{BVCAV19,
+title={Safety and co-safety comparator automata for discounted-sum inclusion},
+author={Bansal, S. and  Vardi, M. Y.},
+booktitle={In proceedings of International Conference on Computer Aided Verification},
+year={2019},
+abstract={Discounted-sum inclusion (DS-inclusion, in short) formalizes the goal of comparing quantitative dimensions of systems such as cost, resource consumption, and the like, when the mode of aggregation for the quantitative dimension is discounted-sum aggregation. Discounted-sum comparator automata, or DS-comparators in short, are B¨uchi automata that read two infinite sequences of weights synchronously and relate their discounted-sum. Recent empirical investigations have shown that while DS-comparators enable competitive algorithms for DS-inclusion, they still suffer from the scalability bottleneck of Buchi operations.
+
+Motivated by the connections between discounted-sum and B¨uchi automata, this paper undertakes an investigation of language-theoretic properties of DS-comparators in order to mitigate the challenges of Buchi DS-comparators to achieve improved scalability of DS-inclusion. Our investigation uncovers that DS-comparators possess safety and co-safety language-theoretic properties. As a result, they enable reductions based on subset construction-based methods as opposed to higher complexity B¨uchi complementation, yielding tighter worst-case complexity and improved empirical scalability for DS-inclusion.}
+}

@@ -1,0 +1,10 @@
+@inproceedings{BCVCAV18,
+title={Automata vs Linear-Programming Discounted-Sum Inclusion},
+author={Bansal, S. and  Chaudhuri, S. and  Vardi, M. Y.},
+booktitle={In proceedings of International Conference on Computer Aided Verification},
+year={2018},
+abstract={The problem of quantitative inclusion formalizes the goal of comparing quantitative dimensions between systems such as worst-case execution time, resource consumption, and the like. Such systems are typically represented by formalisms such as weighted logics or weighted automata. Despite its significance in analyzing the quality of computing systems, the study of quantitative inclusion has mostly been conducted from a theoretical standpoint. In this work, we conduct the first empirical study of quantitative inclusion for discounted-sum weighted automata (DS-inclusion, in short). 
+    Currently, two contrasting approaches for DS-inclusion exist: the linear-programming based DetLP  and the purely automata-theoretic BCV.
+Theoretical complexity of DetLPt is exponential in time and space while of BCV is PSPACE-complete. All practical implementations of BCV, however, are also exponential in time and space. Hence, it is not clear which of the two algorithms renders a superior implementation.
+    In this work we present the first implementations of  these algorithms, and perform  extensive experimentation to compare between the two approaches. Our empirical analysis shows how the two approaches complement each other. This is a nuanced picture that is much richer than the one obtained from the theoretical study alone. }
+}
