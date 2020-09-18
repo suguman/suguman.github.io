@@ -1,7 +1,9 @@
 
 #List of all news items. 
 #Formatted in (Date, News) both in string format
-newsList = [("July 3, 2020", "Extended abstract on my Dissertation has been accepted to appear at <a href=\"http://highlights-conference.org/\">Highlights in Logic, Games and Automata 2020.</a>"),
+newsList = [("September 14, 2020","Honored to be in the cohort of <a href=\"https://cifellows2020.org/2020-class/\">Computing Innovation Fellows 2020</a>. Thank you Computing Research Association and the NSF for their generous support. <br><a href=\"https://www.cccblog.org/2020/09/14/announcing-the-2020-computing-innovation-fellows/?fbclid=IwAR3srO_NJ_1x9hga-z-Ikq_a7VyjUpjpXWEIz_tIURRa2s0BEc1lHQamLSU\">Official annoucement.</a>"), 
+    ("August 8, 2020","Bidding farewell to Houston to move to Philladelphia today. Damn, this is harder than I had imagined... Philly, you better put on your best version. :)."),
+    ("July 3, 2020", "Extended abstract on my Dissertation has been accepted to appear at <a href=\"http://highlights-conference.org/\">Highlights in Logic, Games and Automata 2020.</a>"),
     ("July 1, 2020", "<b>Big News!</b> Moved to <a href=\"https://www.cis.upenn.edu/\">CIS@UPenn</a>.<br> Excited to start as a Postdoctoral Researcher with <a href =\"https://www.cis.upenn.edu/~alur/\">Prof. Rajeev Alur</a>."),
     ("June 22, 2020", "Submitted my <a href=\"Thesis/PhDThesis.pdf\">PhD. Thesis</a>. This marks the end of an epic era.<br>I am deeply grateful to all who were on this journey with me. Read my <a href=\"Thesis/ack.pdf\">acknowledgement here</a>."),
     ("May 8, 2020", "Successfully defended my Ph.D. Dissertation \"Automata-Based Quantitative Reasoning\" under the most unusual circumstances -- from my dining table over a remote talk in a BYO Beverage/Food session!<br>My advisor Moshe Vardi said I did an \"outstanding job\"! Could I have asked for anything more?"),
