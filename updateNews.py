@@ -2,7 +2,7 @@
 #List of all news items. 
 #Formatted in (Date, News) both in string format
 newsList = [("December 23, 2020", "Ending the tumultous year with some good news. Paper titled \"On Satisficing of Quantitative Games\" has been accepted to <a href=\"https://etaps.org/2021/tacas\">TACAS 2021</a>. This is joint work with Krishnendu Chatterjee and Moshe Y. Vardi"),
-    ("October 26, 2020", "I am serving on the program committee of IJCAI 2021. Send your best submissions IJCAI"),
+    ("October 26, 2020", "I am serving on the program committee of IJCAI 2021. Looking forward to reading your best submissions to IJCAI!"),
     ("September 14, 2020","Honored to be in the cohort of <a href=\"https://cifellows2020.org/2020-class/\">Computing Innovation Fellows 2020</a>. Thank you Computing Research Association and the NSF for their generous support. <br><a href=\"https://www.cccblog.org/2020/09/14/announcing-the-2020-computing-innovation-fellows/?fbclid=IwAR3srO_NJ_1x9hga-z-Ikq_a7VyjUpjpXWEIz_tIURRa2s0BEc1lHQamLSU\">Official annoucement.</a>"), 
     ("August 8, 2020","Bidding farewell to Houston to move to Philladelphia today. Damn, this is harder than I had imagined... Philly, you better put on your best version. :)."),
     ("July 3, 2020", "Extended abstract on my Dissertation has been accepted to appear at <a href=\"http://highlights-conference.org/\">Highlights in Logic, Games and Automata 2020.</a>"),
