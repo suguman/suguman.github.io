@@ -1,7 +1,9 @@
 
 #List of all news items. 
 #Formatted in (Date, News) both in string format
-newsList = [("December 23, 2020", "Ending the tumultous year with some good news. Paper titled \"On Satisficing of Quantitative Games\" has been accepted to <a href=\"https://etaps.org/2021/tacas\">TACAS 2021</a>. This is joint work with Krishnendu Chatterjee and Moshe Y. Vardi"),
+newsList = [("February 2021", "I am co-organizing the <a href=\"http://i-cav.org/2021/mentoring/\">Verification Mentoring Workshop</a> at <a href=\"http://i-cav.org/2021/\">CAV 2021</a>. Six years ago VMW@CAV2015 was my gateway to the magnficient Formal Methods community. Life seems to have come a full circle. :)"),
+    ("January, 2021", "I am serving on the Program Committee of <a href=\"https://cgi.csc.liv.ac.uk/~sven/synt/\">SYNT 2021</a> and <a href=\"https://lamassr.github.io/\">LAMAS+SR 2021</a>. Small and intimtae workshops are a great way to showcase work to domain experts. Do consider submitting work to these workshops!"),
+    ("December 23, 2020", "Ending the tumultous year with some good news. Paper titled \"On Satisficing of Quantitative Games\" has been accepted to <a href=\"https://etaps.org/2021/tacas\">TACAS 2021</a>. This is joint work with Krishnendu Chatterjee and Moshe Y. Vardi"),
     ("October 26, 2020", "I am serving on the program committee of IJCAI 2021. Can't wait to read your best submissions to IJCAI!"),
     ("September 14, 2020","Honored to be in the cohort of <a href=\"https://cifellows2020.org/2020-class/\">Computing Innovation Fellows 2020</a>. Thank you Computing Research Association and the NSF for their generous support. <br><a href=\"https://www.cccblog.org/2020/09/14/announcing-the-2020-computing-innovation-fellows/?fbclid=IwAR3srO_NJ_1x9hga-z-Ikq_a7VyjUpjpXWEIz_tIURRa2s0BEc1lHQamLSU\">Official annoucement.</a>"), 
     ("August 8, 2020","Bidding farewell to Houston to move to Philladelphia today. Damn, this is harder than I had imagined... Philly, you better put on your best version. :)."),
