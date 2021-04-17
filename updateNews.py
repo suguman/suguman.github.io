@@ -1,7 +1,7 @@
 
 #List of all news items. 
 #Formatted in (Date, News) both in string format
-newsList = [("April 17, 2021", "Paper on \"Adapting Behaviors via Reactive Synthesis\" has been accepted at CAV 2021."),
+newsList = [("April 17, 2021", "New paper alert!! Paper on \"Adapting Behaviors via Reactive Synthesis\" has been accepted at CAV 2021."),
     ("April 1, 2021","TACAS <a href=\"Slides/TACAS21.pdf\">slides</a> and <a href=\"https://www.youtube.com/watch?v=_zmJBk6T_Yo&t=2s&ab_channel=SugumanBansal\">talk video</a> out now! These summarize our work on \"On Satisficing in Quantitative Games\" "),
 ("February 2021", "I am co-organizing the <a href=\"http://i-cav.org/2021/mentoring/\">Verification Mentoring Workshop</a> at <a href=\"http://i-cav.org/2021/\">CAV 2021</a>. Six years ago VMW@CAV2015 was my gateway to the magnficient Formal Methods community. Life seems to have come a full circle. :)"),
     ("January, 2021", "I am serving on the Program Committee of <a href=\"https://cgi.csc.liv.ac.uk/~sven/synt/\">SYNT 2021</a> and <a href=\"https://lamassr.github.io/\">LAMAS+SR 2021</a>. Small and intimtae workshops are a great way to showcase work to domain experts. Do consider submitting work to these workshops!"),
