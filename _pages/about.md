@@ -39,16 +39,16 @@ My current research thrusts include:
 
 Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://cifellows2020.org/2020-class/) at the University of Pennsylvania, mentored by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). I completed my Ph.D. at Rice University, advised by [Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) and obtained my undergraduate degree from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
-## Teaching
+## teaching
 
-- **CS 8803**: Formal Methods in Reinforcement Learning - Fall 2025
-- **CS 8803**: Logic in Computer Science — Fall 2023
-- **CS 4510**: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
+- CS 8803 (LCS): Logic in Computer Science — Fall 2026, Fall 2023
+- CS 8803 (FMR): Formal Methods in Reinforcement Learning - Fall 2025
+- CS 4510: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
 
-## Selected Awards and Honors
+## selected awards andhonors
 
 - CACM Article (Research and Advances) on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
--  Amazon Research Award (Fall 2024 Cycle)
+- Amazon Research Award (Fall 2024 Cycle)
 - Best Paper Award, ATVA 2023
 - Invited Tutorial Speaker at 28th Joint Conference on ETAPS 2025
 - Keynote Speaker at 44th Conference on FSTTCS 2024 
