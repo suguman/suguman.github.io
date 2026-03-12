@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p> Assistant Professor, <a href="https://scs.gatech.edu">School of Computer Science</a> <p> Georgia Institute of Technology</a> </p>
+subtitle: Assistant Professor, <a href="https://scs.gatech.edu">School of Computer Science, Georgia Institute of Technology</a> 
+
 
 profile:
   align: right
