@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href="https://scs.gatech.edu">School of Computer Science, Georgia Institute of Technology</a>
+subtitle: <p> Assistant Professor, <a href="https://scs.gatech.edu">School of Computer Science</a> <p> Georgia Institute of Technology</a> </p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KACB 2136 Ferst Drive</p>
+    <p> Email: suguman@gatech.edu </p>
+    <p>KACB 2136, 266 Ferst Drive</p>
     <p>Atlanta, GA-30309</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an **Assistant Professor** in the [School of Computer Science at Georgia Institute of Technology](https://scs.gatech.edu) where I lead the [**BansalLab**](group/).
+I am an Assistant Professor in the [School of Computer Science at Georgia Institute of Technology](https://scs.gatech.edu) where I lead the [**BansalLab**](group/).
 
-I am broadly interested in **Formal Methods** and **Logic**, and their applications to **Artificial Intelligence**, **Machine Learning**, and **Programming Languages**.
+I am broadly interested in Formal Methods** and **Logic**, and their applications to **Artificial Intelligence**, **Machine Learning**, and **Programming Languages**.
 The long-term research goal is to build **Trustworthy AI** by simplifying the design-development-deployment pipeline of safe and reliable AI systems.
 
 My current research thrusts include:
