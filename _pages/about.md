@@ -45,7 +45,7 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 - CS 8803 (FMR): Formal Methods in Reinforcement Learning - Fall 2025
 - CS 4510: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
 
-## selected awards andhonors
+## selected awards and honors
 
 - CACM Article (Research and Advances) on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
 - Amazon Research Award (Fall 2024 Cycle)
@@ -53,5 +53,5 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 - Invited Tutorial Speaker at 28th Joint Conference on ETAPS 2025
 - Keynote Speaker at 44th Conference on FSTTCS 2024 
 - Keynote Speaker 29th Static Analysis Symposium (SAS 2022)
-- [NSF/CRA Computing Innovation Fellow 2020](https://cifellows2020.org/2020-class/)
+- NSF/CRA Computing Innovation Fellow 2020
 - MIT EECS Rising Star ([2021](https://risingstars21-eecs.mit.edu/), [2018](https://risingstars18-eecs.mit.edu/))
