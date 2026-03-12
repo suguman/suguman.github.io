@@ -27,25 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the [School of Computer Science at Georgia Institute of Technology](https://scs.gatech.edu) where I lead the [**BansalLab**](group/).
-
-I am broadly interested in Formal Methods** and **Logic**, and their applications to **Artificial Intelligence**, **Machine Learning**, and **Programming Languages**.
+My research interests lies in **Formal Methods** and **Logic**, and their applications to **Artificial Intelligence**, **Machine Learning**, and **Programming Languages**.
 The long-term research goal is to build **Trustworthy AI** by simplifying the design-development-deployment pipeline of safe and reliable AI systems.
 
 My current research thrusts include:
 
-- **Formal Methods for Reinforcement Learning**
-- **Reactive Synthesis from High-Level Specifications**
-- **Symbolic Quantitative Reasoning**
+- Formal Methods for Reinforcement Learning
+- Reactive Synthesis from High-Level Specifications
+- Symbolic Quantitative Reasoning
 
 Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://cifellows2020.org/2020-class/) at the University of Pennsylvania, mentored by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). I completed my Ph.D. at Rice University, advised by [Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) and obtained my undergraduate degree from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
-### Teaching
+## Teaching
 
+- **CS 8803**: Formal Methods in Reinforcement Learning - Fall 2025
 - **CS 8803**: Logic in Computer Science — Fall 2023
-- **CS 4510**: Automata and Complexity — Spring 2024, Spring 2023
+- **CS 4510**: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
 
-### Selected Awards and Honors
+## Selected Awards and Honors
 
 - CACM Article (Research and Advances) on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
 -  Amazon Research Award (Fall 2024 Cycle)
