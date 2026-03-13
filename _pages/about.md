@@ -41,8 +41,8 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 
 ## teaching
 
-- CS 8803 (LCS): Logic in Computer Science — Fall 2026, Fall 2023
-- CS 8803 (FMR): Formal Methods in Reinforcement Learning - Fall 2025
+- CS 8803 (LCS): Logic in Computer Science — Fall 2026 (Upcoming), Fall 2023
+- CS 8803 (FMR): Formal Methods in Reinforcement Learning — Fall 2025
 - CS 4510: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
 
 ## selected awards and honors
