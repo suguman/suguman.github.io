@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /group/
-title: group
+title: research group
 nav: true
 nav_order: 3
 ---
