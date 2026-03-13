@@ -8,8 +8,6 @@ nav_order: 3
 
 ## Current
 
-### PhD Students
-
 ![]({{ site.baseurl }}/assets/img/profile_default.png)
 
 ##### Vignesh Subramanian
@@ -17,8 +15,6 @@ nav_order: 3
 
 - Thesis: Generalizable Reinforcement Learning from Logical Specifications
 - Publications: ATVA 2025
-
-### Masters Students
 
 ![]({{ site.baseurl }}/assets/img/profile_default.png)
 
