@@ -3,15 +3,6 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
-
-- name: email
-  icon: fa-solid fa-envelope
-  url: mailto:suguman@gatech.edu
-
-- name: google_scholar
-  icon: ai ai-google-scholar
-  url: https://scholar.google.com/citations?user=bd9Rk1MAAAAJ
-
-- name: dblp
-  icon: ai ai-dblp
-  url: https://dblp.org/pers/hd/b/Bansal:Suguman
+email: mailto:suguman@gatech.edu
+scholar_userid: bd9Rk1MAAAAJ
+dblp_url: https://dblp.org/pers/hd/b/Bansal:Suguman
