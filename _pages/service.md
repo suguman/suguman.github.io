@@ -14,7 +14,6 @@ nav_order: 4
 
 ## program committee
 
-| Year | Venues |
 |------|--------|
 | 2026 | AAAI, CAV, NASA FM, TACAS |
 | 2025 | AISTATS, ATVA, ECAI, ICML, GenPlan |
