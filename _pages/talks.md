@@ -6,108 +6,88 @@ nav: true
 nav_order: 4
 ---
 
-[Invited Talks](#invited-talks) | [Seminar Talks](#seminar-talks) | [Conference and Workshop Talks](#conference-and-workshop-talks)
+[Distinguished Talks](#distinguished-talks) | [Invited Talks](#invited-talks) | [Conference and Workshop Talks](#conference-and-workshop-talks)
 
+---
+
+## distinguished talks
+
+**Reinforcement Learning from Logical Specifications**
+- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Foundations of Software Technology and Theoretical CS (FSTTCS) 2024, Dec. 2024
+
+**Formal Reasoning in Reinforcement Learning: A Boon or Bane**
+- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Static Analysis Symposium (SAS) 2022, Dec. 2022
+
+**Specification-Guided Reinforcement Learning**
+- <span style="background-color:#0369A1; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Invited Tutorial</span> ETAPS 2025, May 2025
+- AAAI 2023, Feb. 2023
 ---
 
 ## invited talks
 
-- **Compositional Reinforcement Learning from Logical Specifications**<br>
-  Sapienza University of Rome, Italy, June 2021
+**Reinforcement Learning from Logical Specifications**
+- Centaur AI, Feb. 2026
+- College of Computing and Data Science, Nanyang Technological University, June 2025
+- ActSynt@ECAI 2024, Oct. 2024
+- Dagstuhl Seminar on Scalable Analysis of Probabilistic Models and Programs, June 2023
+- Department of Computer Science, IIT Delhi, Oct. 2022
+- Workshop on Open Problems in Learning and Verification of Neural Networks, Aug. 2022
 
-- **Reactive Synthesis for Coordination**<br>
-  Simons Institute Workshop on Synthesis of Models and Systems, UC Berkeley, March 2021
+**Specification-Guided Policy Synthesis** *(Jan. 2022 – Apr. 2022)*
+- Carnegie Mellon University, CISPA Saarland, ETH Zurich, Georgia Institute of Technology, IST Austria, Max Planck Institute - SWS, National University of Singapore, New York University, Pennsylvania State University, Purdue University, Tufts University, TU Graz, University of Illinois - Chicago, University of Southern California, University of Toronto, University of Waterloo (ECE), Washington University at St. Louis, Yale University
 
-- **Designing intelligent machines via reactive synthesis**<br>
-  Machine Learning Seminar Series, Rice University, March 2020
+**Formal Reasoning in Reinforcement Learning: A Boon or Bane**
+- Center of Signal Processing (CSIP), GaTech, Oct. 2023
+- EECS, UC Berkeley, April 2023
 
-- **Designing intelligent systems via reactive synthesis**<br>
-  ICES, University of Texas at Austin, February 2020
+**Model Checking Finite-Horizon Properties**
+- Simons Workshop on Synthesis of Models and Systems, June 2024
+- Dagstuhl Seminar on Automated Synthesis: Functional, Reactive and Beyond, April 2024
+- PLSE Seminar, National University of Singapore, May 2023
 
-- **Automata-based quantitative reasoning**<br>
-  Department of Computer Science, University of Pennsylvania, January 2020
+**Reactive Synthesis from Quantitative Constraints: An Automata Approach**
+- IARCS Verification Seminar Series, Oct. 2021
+- Workshop on Continuity, Computability, Constructivity: From Logic to Algorithms, Sep. 2021
 
-- **Comparators for quantitative verification**<br>
-  IST Austria, Klosterneuburg, Austria, April 2018
+**Compositional Reinforcement Learning from Logical Specifications**
+- Sapienza University of Rome, June 2021
 
-- **Reasoning about incentive compatibility**<br>
-  Google Student Research Summit, YouTube Headquarters, San Bruno, September 2017
+**Reactive Synthesis for Coordination**
+- Simons Institute (UC Berkeley): Workshop on Synthesis of Models and Systems, March 2021
 
-- **Comparators for quantitative games**<br>
-  Saarland University, Saarbrücken, March 2017
+**On Satisficing in Quantitative Games**
+- Hebrew University, June 2021
+- Formal Methods Seminar, Ben Gurion University, March 2021
 
-## seminar talks
+**Designing Intelligent Machines Via Reactive Synthesis**
+- Machine Learning Seminar Series, Rice University, March 2020
+- ICES, University of Texas at Austin, Feb. 2020
+- Nokia Bell Labs, Murray Hill, Feb. 2020
+- Department of Computer Science, IIT Delhi, April 2019
+- School of Computing, National University of Singapore, April 2019
 
-- **On Satisficing in Quantitative Games**<br>
-  Formal Methods Seminar, Hebrew University, Israel, June 2021
+**Automata-Based Quantitative Reasoning**
+- Department of Computer Science, University of Pennsylvania, Jan. 2020
+- Verification Seminar Series, University of Oxford, Nov. 2019
+- RiSE Seminar, IST Austria, April 2018
 
-- **On Satisficing in Quantitative Games**<br>
-  Formal Methods Seminar, Ben Gurion University, Israel, March 2021
+**Comparators for Quantitative Verification**
+- University of California, Berkeley, April 2018
+- Student Spotlight, Winter School in CS and Engineering on Formal Methods, IIAS, Jerusalem, Dec. 2017
+- Saarland University, March 2017
+- Dagstuhl Seminar on Game Theory in AI, Logic and Algorithms, March 2017
 
-- **Designing intelligent systems via reactive synthesis**<br>
-  Nokia Bell Labs, Murray Hill, USA, February 2020
+**Asynchronous Synthesis: The Ugly, the Bad and the ?**
+- Application Platforms and Software Systems Group, Nokia Bell Labs, Murray Hill, July 2017
 
-- **Automata-based quantitative reasoning**<br>
-  Verification Seminar Series, University of Oxford, November 2019
+**Reasoning About Incentive Compatibility**
+- Google Student Research Summit, YouTube Headquarters, San Bruno, Sept. 2017
 
-- **Designing intelligent systems via reactive synthesis**<br>
-  Department of Computer Science, IIT Delhi, New Delhi, April 2019
-
-- **Designing intelligent systems via reactive synthesis**<br>
-  School of Computing, National University of Singapore, April 2019
-
-- **Comparators for quantitative verification**<br>
-  UC Berkeley, April 2018
-
-- **Comparators for quantitative verification**<br>
-  Student Spotlight, 2nd Winter School in CS and Engineering on Formal Methods, IIAS, Jerusalem, December 2017
-
-- **Asynchronous synthesis: The Ugly, the Bad, and the ?**<br>
-  Application Platforms and Software Systems Group, Nokia Bell Labs, Murray Hill, July 2017
-
-- **Comparators for quantitative games**<br>
-  Dagstuhl Seminar on Game Theory in AI, Logic and Algorithms, March 2017
-
-- **Algorithmic Analysis of Regular Repeated Games**<br>
-  M.Sc. Thesis Defense, Rice University, Houston, April 2016
-
-- **Reasoning about Incentive Compatibility**<br>
-  ACM SRC at POPL 2016, St. Petersburg, January 2016
+---
 
 ## conference and workshop talks
 
-- **Synthesis from Temporal and Satisficing Goals**<br>
-  HIGHLIGHTS of Logic, Games and Automata 2021, September 2021
-
-- **Compositional Reinforcement Learning from Logical Specifications**<br>
-  Workshop on Synthesis (SYNT) co-located with CAV 2021, July 2021
-
-- **On Satisficing in Quantitative Games**<br>
-  TACAS 2021, March 2021
-
-- **Automata-Based Quantitative Reasoning**<br>
-  HIGHLIGHTS of Logic, Games and Automata 2020, September 2020
-
-- **Hybrid compositional reasoning for reactive synthesis from finite-horizon tasks**<br>
-  AAAI 2020, New York City, February 2020
-
-- **Synthesis of coordination programs from linear temporal logic**<br>
-  POPL 2020, New Orleans, January 2020
-
-- **Safety and co-safety comparator automata for discounted-sum inclusion**<br>
-  CAV 2019, New York City, July 2019
-
-- **Coordination synthesis**<br>
-  Workshop on Synthesis (SYNT) co-located with CAV 2019, New York City, July 2019
-
-- **Automata vs linear-programming discounted-sum inclusion**<br>
-  CAV 2018, FLoC 2018, Oxford, July 2018
-
-- **Synthesis of asynchronous reactive programs from temporal specifications**<br>
-  CAV 2018, FLoC 2018, Oxford, July 2018
-
-- **Comparators for quantitative verification**<br>
-  FoSSaCS 2018, Thessaloniki, April 2018
-
-- **Reasoning about Selfishness**<br>
-  Off the Beaten Track 2016 co-located with POPL 2016, St. Petersburg, January 2016
+AAAI-SSS 2023, ATVA 2023, Highlights of Logic, Games, and Automata 2023, AAAI 2022, NeurIPS 2021,
+Highlights of Logic, Games, and Automata 2021, SYNT 2021, TACAS 2021, Highlights of Logic, Games,
+and Automata 2020, AAAI 2020, POPL 2020, CAV 2019, SYNT 2019, CAV 2018 (a), CAV 2018 (b),
+FoSSaCS 2018, Off the Beaten Track 2016, ACM Student Research Competition at POPL 2016
