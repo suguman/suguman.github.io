@@ -21,6 +21,8 @@ nav_order: 2
   </div>
 </div>
 
+[↑ Return to top](#top)
+
 ## thesis
 
 <div class="publications-wrapper">
@@ -30,4 +32,6 @@ nav_order: 2
     </div>
   </div>
 </div>
+
+[↑ Return to top](#top)
 
