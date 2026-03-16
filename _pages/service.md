@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: service
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## organizing committee
