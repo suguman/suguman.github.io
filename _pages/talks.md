@@ -6,6 +6,10 @@ nav: true
 nav_order: 4
 ---
 
+[Invited Talks](#invited-talks) | [Seminar Talks](#seminar-talks) | [Conference and Workshop Talks](#conference-and-workshop-talks)
+
+---
+
 ## invited talks
 
 - **Compositional Reinforcement Learning from Logical Specifications**<br>
