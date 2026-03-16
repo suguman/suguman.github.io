@@ -16,7 +16,7 @@ nav_order: 5
 - CACM Research and Advances Article on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/), Feb. 2026, Vol. 69 No. 2
 - Amazon Research Award, Fall 2024 Cycle
 - Best Paper Award, ATVA 2023
-- - 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
+- 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
 - Thank-a-Teacher Certificate, Georgia Tech *(presented by individual students)*
   - CS 4510 (Automata and Complexity), Fall 2025
   - CS 8803 (Logic in Computer Science), Fall 2023
