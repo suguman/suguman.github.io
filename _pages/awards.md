@@ -9,7 +9,7 @@ nav_order: 5
 [Awards](#awards) | [Honors](#honors) | [Fellowships and Grants](#fellowships-and-grants) 
 ---
 
-## awards [Full List](/awards/)
+## awards 
 
 <a name="awards"></a>
 
