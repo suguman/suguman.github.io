@@ -47,8 +47,8 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 
 ## selected awards and honors
 
-- CACM Article (Research and Advances) on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
-- Amazon Research Award (Fall 2024 Cycle)
+- CACM Article (Research and Advances) 2026 on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
+- Amazon Research Award 2025
 - Best Paper Award, ATVA 2023
 - Invited Tutorial Speaker at 28th Joint Conference on ETAPS 2025
 - Keynote Speaker at 44th Conference on FSTTCS 2024 
