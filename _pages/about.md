@@ -45,7 +45,7 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 - CS 8803 (FMR): Formal Methods in Reinforcement Learning — Fall 2025
 - CS 4510: Automata and Complexity — Fall 2025, Spring 2024, Spring 2023
 
-## selected awards and honors
+## selected awards and honors [Full list](/awards/)
 
 - CACM Article (Research and Advances) 2026 on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
 - Amazon Research Award 2025
