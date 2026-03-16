@@ -50,6 +50,7 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 - CACM Article (Research and Advances) 2026 on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
 - Amazon Research Award 2025
 - Best Paper Award, ATVA 2023
+- - 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
 - Invited Tutorial Speaker at 28th Joint Conference on ETAPS 2025
 - Keynote Speaker at 44th Conference on FSTTCS 2024 
 - Keynote Speaker 29th Static Analysis Symposium (SAS 2022)
