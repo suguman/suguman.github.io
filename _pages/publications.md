@@ -15,3 +15,7 @@ nav_order: 2
     </div>
   </div>
 </div>
+
+## thesis
+
+{% bibliography -f thesis -q @* %}
