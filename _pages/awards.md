@@ -14,8 +14,8 @@ nav_order: 5
 
 <a name="awards"></a>
 
-- CACM Research and Advances Article on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/), Feb. 2026, Vol. 69 No. 2
-- Amazon Research Award, Fall 2024 Cycle
+- CACM 2026 Research and Advances Article on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/), Feb. 2026, Vol. 69 No. 2
+- Amazon Research Award, 2025
 - Best Paper Award, ATVA 2023
 - 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
 - Thank-a-Teacher Certificate, Georgia Tech *(presented by individual students)*
