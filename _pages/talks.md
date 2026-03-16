@@ -90,7 +90,7 @@ nav_order: 4
 
 ## conference and workshop talks
 
-AAAI-SSS 2023, ATVA 2023, Highlights of Logic, Games, and Automata 2023, AAAI 2022, NeurIPS 2021,
+CAV 2025, AAAI-SSS 2023, ATVA 2023, Highlights of Logic, Games, and Automata 2023, AAAI 2022, NeurIPS 2021,
 Highlights of Logic, Games, and Automata 2021, SYNT 2021, TACAS 2021, Highlights of Logic, Games,
 and Automata 2020, AAAI 2020, POPL 2020, CAV 2019, SYNT 2019, CAV 2018 (a), CAV 2018 (b),
 FoSSaCS 2018, Off the Beaten Track 2016, ACM Student Research Competition at POPL 2016
