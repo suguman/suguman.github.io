@@ -8,6 +8,7 @@ nav_order: 6
 
 ## organizing committee
 
+- Co-Orgamizer, PLSEFM + AI Workshop at Georgia Tech, April 2026 [link](https://sites.gatech.edu/plsefm-ai-workshop/)
 - Co-Organizer, QuantFormal: Formal Verification and Learning for Quantitative Systems @ FSTTCS 2025
 - Co-Chair, AAAI Spring Symposium Series 2023: On the Effectiveness of Temporal Logics on Finite Traces
 - Co-Organizer, Verification Mentoring Workshop @ CAV 2021
