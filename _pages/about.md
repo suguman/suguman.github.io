@@ -37,9 +37,13 @@ My current research thrusts include:
 - Reactive Synthesis from High-Level Specifications
 - Symbolic Quantitative Reasoning
 
-I am running the [<b>PLSE Seminar</b>](https://sites.gatech.edu/plse-seminar/) at Georgia Tech in Spring 2026.
 
 Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://cifellows2020.org/2020-class/) at the University of Pennsylvania, mentored by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). I completed my Ph.D. at Rice University, advised by [Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) and obtained my undergraduate degree from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
+
+## current activities
+
+- I am running the [<b>PLSE Seminar</b>](https://sites.gatech.edu/plse-seminar/) at Georgia Tech in Spring 2026.
+- I am co-organizing the [<b>PLSEFM+AI Workshop</b>](https://sites.gatech.edu/plsefm-ai-workshop/) at Georgia Tech to be held on Thursday, April 30 2026. [<b>Register Now!</b>](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggyskzHC-Og5Fn83ifE08dfZUQlA1STFENDFDWjlTNEhVOUVVQVlRUkZRMi4u)
 
 ## teaching
 
