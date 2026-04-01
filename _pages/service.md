@@ -16,7 +16,7 @@ nav_order: 6
 ## program committee
 
 |------|--------|
-| 2026 | AAAI, CAV, NASA FM, TACAS |
+| 2026 | AAAI, ATVA, CAV, NASA FM, TACAS |
 | 2025 | AISTATS, ATVA, ECAI, ICML, GenPlan |
 | 2024 | AAAI, CAV, NeurIPS, POPL, TACAS, Women in Logic (WiL) |
 | 2023 | AAAI, CAV, CONCUR, ESOP, Highlights of Automata Logic and Games, NASA FM, NeurIPS |
