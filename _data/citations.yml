@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-13'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 22
@@ -18,7 +18,7 @@ papers:
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
-    citations: 4
+    citations: 5
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
@@ -38,7 +38,7 @@ papers:
     title: Synthesis from satisficing and temporal goals
     year: '2022'
   bd9Rk1MAAAAJ:_Qo2XoVZTnwC:
-    citations: 8
+    citations: 9
     title: Multi-agent systems with quantitative satisficing goals
     year: '2023'
   bd9Rk1MAAAAJ:_kc_bZDykSQC:
@@ -50,7 +50,7 @@ papers:
     title: Automata-Based Quantitative Verification
     year: '2020'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 133
+    citations: 135
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
