@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 22
@@ -14,7 +14,7 @@ papers:
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
-    citations: 11
+    citations: 12
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
@@ -22,7 +22,7 @@ papers:
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 54
+    citations: 55
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
