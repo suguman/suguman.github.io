@@ -13,8 +13,9 @@ nav_order: 4
 ## distinguished talks
 
 **Reinforcement Learning from Logical Specifications**
-- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Foundations of Software Technology and Theoretical CS (FSTTCS) 2024, Dec. 2024
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> The Workshop on Verification of Probabilistic Programs (VeriPoP) 2026, July 2026
+- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Foundations of Software Technology and Theoretical CS (FSTTCS) 2024, Dec. 2024
+
 
 **Formal Reasoning in Reinforcement Learning: A Boon or Bane**
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Static Analysis Symposium (SAS) 2022, Dec. 2022
