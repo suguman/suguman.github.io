@@ -14,13 +14,13 @@ nav_order: 4
 
 **Reinforcement Learning from Logical Specifications**
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Foundations of Software Technology and Theoretical CS (FSTTCS) 2024, Dec. 2024
+- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> The Workshop on Verification of Probabilistic Programs (VeriPoP) 2026, July 2026
 
 **Formal Reasoning in Reinforcement Learning: A Boon or Bane**
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Static Analysis Symposium (SAS) 2022, Dec. 2022
 
 **Specification-Guided Reinforcement Learning (Tutorial)** 
 
-- The European Summer School on Artificial Intelligence (ESSAI) 2026
 - <span style="background-color:#0369A1; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Invited Tutorial</span> European Joint Conferences on Theory and Practice of Software (ETAPS) 2025, May 2025
 - AAAI 2023, Feb. 2023 (co-presented with Rajeev Alur, Osbert Bastani, and Kishor Jothimurugan)
   
