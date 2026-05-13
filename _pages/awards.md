@@ -14,7 +14,6 @@ nav_order: 5
 
 <a name="awards"></a>
 
-- CACM 2026 Research and Advances Article on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/), Feb. 2026, Vol. 69 No. 2
 - Amazon Research Award, 2025
 - Best Paper Award, ATVA 2023
 - 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
@@ -37,11 +36,11 @@ nav_order: 5
 
 <a name="honors"></a>
 
+- CACM 2026 Research and Advances Article on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/), Feb. 2026, Vol. 69 No. 2
 - <span style="background-color:#0369A1; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Invited Tutorial</span> European Joint Conferences on Theory and Practice of Software (ETAPS) 2025, May 2025
+- <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> The Workshop on Verification of Probabilistic Programs (VeriPoP) 2026, July 2026
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Foundations of Software Technology and Theoretical CS (FSTTCS) 2024, Dec. 2024
 - <span style="background-color:#B31B1B; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Keynote</span> Static Analysis Symposium (SAS) 2022, Dec. 2022
-- Invited to NII Shonan Meeting on Frontiers of Formal Methods for Probabilistic Models and Programs, June 2026
-- Invited to Dagstuhl Seminar on Knowledge Compilation in AI, Databases, and Formal Methods, May 2026
 - Invited to Dagstuhl Seminar on Automated Synthesis: Functional, Reactive and Beyond, April 2024
 - Invited to Dagstuhl Seminar on Scalable Analysis of Probabilistic Models and Programs, June 2023
 - Invited to Simons Institute for program on Real-Time Decision Making, Spring 2018
@@ -57,6 +56,9 @@ nav_order: 5
 
 <a name="fellowships-and-grants"></a>
 
+- ** NSF SHF: Formal Reasoning of Reinforcement Learning Policies ($\sim$ USD 600K)**, July. 2026 – June 2029<br>
+  PI: Suguman Bansal — ~USD 600,000
+  
 - **Amazon Research Award 2025**<br>
   PI: Suguman Bansal — USD 40,000 (Cash) + USD 20,000 (AWS Credits)
 
