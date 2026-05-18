@@ -42,7 +42,7 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 
 ## note for GaTech students interested in research
 
-I work with students only after they demonstrate strong performance in one of my courses. Register for CS 8803 LCS (Logic in Computer Science, [Syllabus](/assets/pdf/CS8803_Syllabus.pdf))) in Fall 2026 if you are interested in working with me. 
+I work with students after they demonstrate strong performance in one of my courses. If you are interested in working with me, please register for CS 8803 LCS (Logic in Computer Science, [Syllabus](/assets/pdf/CS8803_Syllabus.pdf)) in Fall 2026.
 
 <!--## current activities
 
