@@ -55,9 +55,6 @@ nav_order: 5
 ## fellowships and grants
 
 <a name="fellowships-and-grants"></a>
-
-- **NSF SHF: Formal Reasoning of Reinforcement Learning Policies**, July. 2026 – June 2029<br>
-  PI: Suguman Bansal — ~USD 600,000
   
 - **Amazon Research Award 2025**<br>
   PI: Suguman Bansal — USD 40,000 (Cash) + USD 20,000 (AWS Credits)
