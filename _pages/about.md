@@ -44,10 +44,11 @@ Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://
 
 I work with students only after they demonstrate strong performance in one of my courses. Register for CS 8803 LCS (Logic in Computer Science, [Syllabus](/assets/pdf/CS8803_Syllabus.pdf))) in Fall 2026 if you are interested in working with me. 
 
-## current activities
+<!--## current activities
 
 - I am running the [<b>PLSE Seminar</b>](https://sites.gatech.edu/plse-seminar/) at Georgia Tech in Spring 2026.
 - I am co-organizing the [<b>PLSEFM+AI Workshop</b>](https://sites.gatech.edu/plsefm-ai-workshop/) at Georgia Tech to be held on Thursday, April 30 2026. [<b>Register Now!</b>](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_MvqggyskzHC-Og5Fn83ifE08dfZUQlA1STFENDFDWjlTNEhVOUVVQVlRUkZRMi4u)
+-->
 
 ## teaching
 
