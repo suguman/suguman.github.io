@@ -40,7 +40,7 @@ My current research thrusts include:
 
 Previously, I was an [NSF/CRA Computing Innovation Postdoctoral Fellow](https://cifellows2020.org/2020-class/) at the University of Pennsylvania, mentored by [Rajeev Alur](https://www.cis.upenn.edu/~alur/). I completed my Ph.D. at Rice University, advised by [Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) and obtained my undergraduate degree from [Chennai Mathematical Institute](https://www.cmi.ac.in/).
 
-## note for GaTech students interested in Research
+## note for GaTech students interested in research
 
 I work with students only after they demonstrate strong performance in one of my courses. Register for CS 8803 LCS (Logic in Computer Science, [Syllabus](/assets/pdf/CS8803_Syllabus.pdf))) in Fall 2026 if you are interested in working with me. 
 
