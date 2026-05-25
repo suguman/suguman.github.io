@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-25'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
-    citations: 22
+    citations: 24
     title: Compositional safety LTL synthesis
     year: '2022'
   bd9Rk1MAAAAJ:M3NEmzRMIkIC:
@@ -10,7 +10,7 @@ papers:
     title: Comparator Automata in Quantitative
     year: '2018'
   bd9Rk1MAAAAJ:QIV2ME_5wuYC:
-    citations: 9
+    citations: 11
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
@@ -18,11 +18,11 @@ papers:
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
-    citations: 5
+    citations: 6
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 55
+    citations: 57
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
@@ -38,7 +38,7 @@ papers:
     title: Synthesis from satisficing and temporal goals
     year: '2022'
   bd9Rk1MAAAAJ:_Qo2XoVZTnwC:
-    citations: 9
+    citations: 10
     title: Multi-agent systems with quantitative satisficing goals
     year: '2023'
   bd9Rk1MAAAAJ:_kc_bZDykSQC:
@@ -50,7 +50,7 @@ papers:
     title: Automata-Based Quantitative Verification
     year: '2020'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 135
+    citations: 141
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
@@ -70,15 +70,15 @@ papers:
     title: Inductive generalization in reinforcement learning from specifications
     year: '2025'
   bd9Rk1MAAAAJ:isC4tDSrTZIC:
-    citations: 2
+    citations: 4
     title: DAG-Based Compositional Approaches for LTLf to DFA Conversions
     year: '2024'
   bd9Rk1MAAAAJ:j3f4tGmQtD8C:
-    citations: 20
+    citations: 21
     title: Model checking strategies from synthesis over finite traces
     year: '2023'
   bd9Rk1MAAAAJ:kNdYIx-mwKoC:
-    citations: 61
+    citations: 65
     title: Hybrid compositional reasoning for reactive synthesis from finite-horizon specifications
     year: '2020'
   bd9Rk1MAAAAJ:k_IJM867U9cC:
