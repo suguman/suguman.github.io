@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-03'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 24
     title: Compositional safety LTL synthesis
     year: '2022'
+  bd9Rk1MAAAAJ:JV2RwH3_ST0C:
+    citations: 0
+    title: Safety and Co-safety Comparator Automata for Discounted-Sum Inclusion
+    year: '2019'
   bd9Rk1MAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: Comparator Automata in Quantitative
@@ -14,15 +18,15 @@ papers:
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
-    citations: 12
+    citations: 13
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
-    citations: 6
+    citations: 7
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 58
+    citations: 60
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
@@ -49,8 +53,12 @@ papers:
     citations: 3
     title: Automata-Based Quantitative Verification
     year: '2020'
+  bd9Rk1MAAAAJ:blknAaTinKkC:
+    citations: 0
+    title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
+    year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 141
+    citations: 143
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
