@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-05'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
-    citations: 24
+    citations: 25
     title: Compositional safety LTL synthesis
     year: '2022'
   bd9Rk1MAAAAJ:JV2RwH3_ST0C:
@@ -14,7 +14,7 @@ papers:
     title: Comparator Automata in Quantitative
     year: '2018'
   bd9Rk1MAAAAJ:QIV2ME_5wuYC:
-    citations: 11
+    citations: 12
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
@@ -86,7 +86,7 @@ papers:
     title: Model checking strategies from synthesis over finite traces
     year: '2023'
   bd9Rk1MAAAAJ:kNdYIx-mwKoC:
-    citations: 65
+    citations: 66
     title: Hybrid compositional reasoning for reactive synthesis from finite-horizon specifications
     year: '2020'
   bd9Rk1MAAAAJ:k_IJM867U9cC:
