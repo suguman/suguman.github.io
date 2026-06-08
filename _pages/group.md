@@ -19,17 +19,19 @@ Generalizable Reinforcement Learning from Logical Specifications
 
 <div>
 <img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
+**Lu-Chin Chang**<br>
+*PhD student, Jan. 2026 – Present*<br>
+Model-free learning of reachability with asymptotic guarantees
+</div>
+
+
+<div>
+<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
 **Amogh Palasamudram**<br>
 *Masters student, Aug. 2025 – Present*<br>
 Learning reachability with asymptotic guarantees
 </div>
 
-<div>
-<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
-**Lu-Chin Chang**<br>
-*Masters student, Jan. 2026 – Present*<br>
-Model-free learning of reachability with asymptotic guarantees
-</div>
 
 <div>
 <img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
