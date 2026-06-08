@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-08'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 25
@@ -14,19 +14,19 @@ papers:
     title: Comparator Automata in Quantitative
     year: '2018'
   bd9Rk1MAAAAJ:QIV2ME_5wuYC:
-    citations: 12
+    citations: 13
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
-    citations: 13
+    citations: 14
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
-    citations: 7
+    citations: 8
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 60
+    citations: 61
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
@@ -58,7 +58,7 @@ papers:
     title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
     year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 143
+    citations: 144
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
@@ -66,7 +66,7 @@ papers:
     title: Comparator automata in quantitative verification
     year: '2018'
   bd9Rk1MAAAAJ:hFOr9nPyWt4C:
-    citations: 12
+    citations: 13
     title: Specification-guided learning of nash equilibria with high social welfare
     year: '2022'
   bd9Rk1MAAAAJ:hqOjcs7Dif8C:
@@ -74,7 +74,7 @@ papers:
     title: Safety and co-safety comparator automata for discounted-sum inclusion
     year: '2019'
   bd9Rk1MAAAAJ:iH-uZ7U-co4C:
-    citations: 2
+    citations: 3
     title: Inductive generalization in reinforcement learning from specifications
     year: '2025'
   bd9Rk1MAAAAJ:isC4tDSrTZIC:
@@ -91,8 +91,8 @@ papers:
     year: '2020'
   bd9Rk1MAAAAJ:k_IJM867U9cC:
     citations: 0
-    title: Certification-Guided Evaluation of Reinforcement Learning Generalization
-    year: '2025'
+    title: Certificate-Guided Evaluation of Reinforcement Learning Generalization
+    year: '2026'
   bd9Rk1MAAAAJ:mB3voiENLucC:
     citations: 26
     title: Comparator automata in quantitative verification
