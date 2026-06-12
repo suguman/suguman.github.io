@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 25
@@ -58,7 +58,7 @@ papers:
     title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
     year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 144
+    citations: 145
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
@@ -82,7 +82,7 @@ papers:
     title: DAG-Based Compositional Approaches for LTLf to DFA Conversions
     year: '2024'
   bd9Rk1MAAAAJ:j3f4tGmQtD8C:
-    citations: 21
+    citations: 22
     title: Model checking strategies from synthesis over finite traces
     year: '2023'
   bd9Rk1MAAAAJ:kNdYIx-mwKoC:
