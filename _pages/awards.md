@@ -57,7 +57,6 @@ nav_order: 5
 <a name="fellowships-and-grants"></a>
   
 - **NSF: Formal Reasoning of Reinforcement Learning Policies ([Announcement](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2619180)), Sept. 2026 - Aug 2030**
-
   Sole PI: Suguman Bansal - USD 600,000 
   
 - **Amazon Research Award 2025**<br>
