@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-20'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 25
@@ -22,11 +22,11 @@ papers:
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
-    citations: 9
+    citations: 11
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 61
+    citations: 64
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
@@ -42,7 +42,7 @@ papers:
     title: Synthesis from satisficing and temporal goals
     year: '2022'
   bd9Rk1MAAAAJ:_Qo2XoVZTnwC:
-    citations: 10
+    citations: 11
     title: Multi-agent systems with quantitative satisficing goals
     year: '2023'
   bd9Rk1MAAAAJ:_kc_bZDykSQC:
@@ -58,7 +58,7 @@ papers:
     title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
     year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 145
+    citations: 146
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
@@ -78,7 +78,7 @@ papers:
     title: Safety and co-safety comparator automata for discounted-sum inclusion
     year: '2019'
   bd9Rk1MAAAAJ:iH-uZ7U-co4C:
-    citations: 3
+    citations: 4
     title: Inductive generalization in reinforcement learning from specifications
     year: '2025'
   bd9Rk1MAAAAJ:isC4tDSrTZIC:
@@ -90,7 +90,7 @@ papers:
     title: Model checking strategies from synthesis over finite traces
     year: '2023'
   bd9Rk1MAAAAJ:kNdYIx-mwKoC:
-    citations: 66
+    citations: 67
     title: Hybrid compositional reasoning for reactive synthesis from finite-horizon specifications
     year: '2020'
   bd9Rk1MAAAAJ:k_IJM867U9cC:
@@ -98,7 +98,7 @@ papers:
     title: Certificate-Guided Evaluation of Reinforcement Learning Generalization
     year: '2026'
   bd9Rk1MAAAAJ:mB3voiENLucC:
-    citations: 26
+    citations: 27
     title: Comparator automata in quantitative verification
     year: '2022'
   bd9Rk1MAAAAJ:mVmsd5A6BfQC:
