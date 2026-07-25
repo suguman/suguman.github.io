@@ -22,7 +22,7 @@ nav_order: 4
 
 **Specification-Guided Reinforcement Learning (Tutorial)** 
 
-- <span style="background-color:#0369A1; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Invited Tutorial</span> European Joint Conferences on Theory and Practice of Software (ETAPS) 2025, May 2025
+- <span style="background-color:#0369A1; color:white; padding:2px 8px; border-radius:4px; font-size:0.8em;">Invited Tutorial</span> European Joint Conferences on Theory and Practice of Software (ETAPS) 2025, May 2025 [Slides](/assets/pdf/tutorial.pdf)
 - AAAI 2023, Feb. 2023 (co-presented with Rajeev Alur, Osbert Bastani, and Kishor Jothimurugan)
   
 ---
