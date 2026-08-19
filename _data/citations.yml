@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-19'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
-    citations: 25
+    citations: 26
     title: Compositional safety LTL synthesis
     year: '2022'
   bd9Rk1MAAAAJ:JV2RwH3_ST0C:
@@ -18,7 +18,7 @@ papers:
     title: Adapting Behaviors via Reactive Synthesis
     year: '2021'
   bd9Rk1MAAAAJ:R3hNpaxXUhUC:
-    citations: 14
+    citations: 16
     title: Specification-guided reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:TFP_iSt0sucC:
@@ -26,15 +26,15 @@ papers:
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 64
+    citations: 68
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 11
     title: Automata vs Linear-Programming Discounted-Sum Inclusion
     year: '2018'
   bd9Rk1MAAAAJ:YsMSGLbcyi4C:
-    citations: 14
+    citations: 16
     title: Synthesis of asynchronous reactive programs from temporal specifications
     year: '2018'
   bd9Rk1MAAAAJ:ZeXyd9-uunAC:
@@ -46,11 +46,11 @@ papers:
     title: Multi-agent systems with quantitative satisficing goals
     year: '2023'
   bd9Rk1MAAAAJ:_kc_bZDykSQC:
-    citations: 10
+    citations: 11
     title: Synthesis of coordination programs from linear temporal specifications
     year: '2020'
   bd9Rk1MAAAAJ:aqlVkmm33-oC:
-    citations: 3
+    citations: 2
     title: Automata-Based Quantitative Verification
     year: '2020'
   bd9Rk1MAAAAJ:blknAaTinKkC:
@@ -58,7 +58,7 @@ papers:
     title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
     year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 146
+    citations: 150
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
@@ -66,7 +66,7 @@ papers:
     title: Comparator automata in quantitative verification
     year: '2018'
   bd9Rk1MAAAAJ:hFOr9nPyWt4C:
-    citations: 13
+    citations: 14
     title: Specification-guided learning of nash equilibria with high social welfare
     year: '2022'
   bd9Rk1MAAAAJ:hMod-77fHWUC:
@@ -74,7 +74,7 @@ papers:
     title: Decoupled Behavioral Cloning for Scalable Inductive Generalization in RL from Specifications
     year: '2026'
   bd9Rk1MAAAAJ:hqOjcs7Dif8C:
-    citations: 13
+    citations: 12
     title: Safety and co-safety comparator automata for discounted-sum inclusion
     year: '2019'
   bd9Rk1MAAAAJ:iH-uZ7U-co4C:
@@ -86,11 +86,11 @@ papers:
     title: DAG-Based Compositional Approaches for LTLf to DFA Conversions
     year: '2024'
   bd9Rk1MAAAAJ:j3f4tGmQtD8C:
-    citations: 22
+    citations: 23
     title: Model checking strategies from synthesis over finite traces
     year: '2023'
   bd9Rk1MAAAAJ:kNdYIx-mwKoC:
-    citations: 67
+    citations: 70
     title: Hybrid compositional reasoning for reactive synthesis from finite-horizon specifications
     year: '2020'
   bd9Rk1MAAAAJ:k_IJM867U9cC:
@@ -98,11 +98,11 @@ papers:
     title: Certificate-Guided Evaluation of Reinforcement Learning Generalization
     year: '2026'
   bd9Rk1MAAAAJ:mB3voiENLucC:
-    citations: 27
+    citations: 26
     title: Comparator automata in quantitative verification
     year: '2022'
   bd9Rk1MAAAAJ:mVmsd5A6BfQC:
-    citations: 13
+    citations: 12
     title: On Satisficing in Quantitative Games
     year: '2021'
   bd9Rk1MAAAAJ:maZDTaKrznsC:
@@ -110,6 +110,6 @@ papers:
     title: 'INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component Decomposition'
     year: '2025'
   bd9Rk1MAAAAJ:zYLM7Y9cAGgC:
-    citations: 2
+    citations: 3
     title: Algorithmic analysis of Regular repeated games
     year: '2016'
