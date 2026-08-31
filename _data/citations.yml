@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-31'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 26
@@ -58,7 +58,7 @@ papers:
     title: 'Reinforcement Learning for Reachability: Guaranteeing Asymptotic Optimality'
     year: '2026'
   bd9Rk1MAAAAJ:dhFuZR0502QC:
-    citations: 150
+    citations: 151
     title: Compositional reinforcement learning from logical specifications
     year: '2021'
   bd9Rk1MAAAAJ:hC7cP41nSMkC:
