@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-07'
 papers:
   bd9Rk1MAAAAJ:HDshCWvjkbEC:
     citations: 26
@@ -26,7 +26,7 @@ papers:
     title: 'Reinforcement Learning from Reachability Specifications: PAC Guarantees with Expected Conditional Distance'
     year: '2024'
   bd9Rk1MAAAAJ:TQgYirikUcIC:
-    citations: 69
+    citations: 70
     title: A framework for transforming specifications in reinforcement learning
     year: '2022'
   bd9Rk1MAAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: Decoupled Behavioral Cloning for Scalable Inductive Generalization in RL from Specifications
     year: '2026'
   bd9Rk1MAAAAJ:hqOjcs7Dif8C:
-    citations: 12
+    citations: 13
     title: Safety and co-safety comparator automata for discounted-sum inclusion
     year: '2019'
   bd9Rk1MAAAAJ:iH-uZ7U-co4C:
@@ -98,7 +98,7 @@ papers:
     title: Certificate-Guided Evaluation of Reinforcement Learning Generalization
     year: '2026'
   bd9Rk1MAAAAJ:mB3voiENLucC:
-    citations: 28
+    citations: 29
     title: Comparator automata in quantitative verification
     year: '2022'
   bd9Rk1MAAAAJ:mVmsd5A6BfQC:
