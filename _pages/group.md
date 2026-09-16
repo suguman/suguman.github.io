@@ -37,7 +37,7 @@ Formalization of RL Proofs
 <img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
 **Krishaang Gupta**<br>
 *Masters student, Jan. 2026 – Present*<br>
-Improving [Lisa](https://github.com/suguman-lab/lisa2)
+Improving ([Lisa](https://github.com/suguman-lab/lisa2))
 </div>
 
 </div>
