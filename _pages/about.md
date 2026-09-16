@@ -61,7 +61,7 @@ I work with students after they demonstrate strong performance in one of my cour
 - CACM Article (Research and Advances) 2026 on [Specification-Guided Reinforcement Learning](https://cacm.acm.org/research/specification-guided-reinforcement-learning/)
 - Amazon Research Award 2025
 - Best Paper Award, ATVA 2023
-- 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/liyong31/lisa))
+- 🥉 3rd Place, LTLf Realizability Track, SYNTCOMP 2023 (Tool: [Lisa](https://github.com/suguman-lab/lisa2))
 - Invited Tutorial Speaker at 28th Joint Conference on ETAPS 2025
 - Keynote Speaker at 44th Conference on FSTTCS 2024 
 - Keynote Speaker 29th Static Analysis Symposium (SAS 2022)
