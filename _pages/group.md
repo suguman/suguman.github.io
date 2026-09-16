@@ -25,13 +25,6 @@ Model-free learning of reachability with asymptotic guarantees
 </div>
 
 
-<div>
-<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
-**Amogh Palasamudram**<br>
-*Masters student, Aug. 2025 – Present*<br>
-Learning reachability with asymptotic guarantees
-</div>
-
 
 <div>
 <img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
@@ -44,14 +37,7 @@ Formalization of RL Proofs
 <img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
 **Krishaang Gupta**<br>
 *Masters student, Jan. 2026 – Present*<br>
-Natural Language to Formal Specification Conversion
-</div>
-
-<div>
-<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
-**Gaurav Mahala**<br>
-*Masters student, IIT Bombay (co-advised with [Prof. S Akshay](https://www.cse.iitb.ac.in/~akshayss/)), July 2025 – Present*<br>
-Certifying Reinforcement Learning
+Improving Lisa
 </div>
 
 </div>
@@ -61,6 +47,14 @@ Certifying Reinforcement Learning
 ## alumni
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 1rem;">
+
+<div>
+<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
+**Amogh Palasamudram**<br>
+*Masters student, Aug. 2025 – June 2026<br>
+Next: Google SWE, Bay Area
+</div>
+
 
 <div>
 **Ramneet Singh**<br>
@@ -73,6 +67,12 @@ Next: Predoctoral Fellow, Microsoft Research India
 *Undergraduate, Georgia Tech — Apr. 2023 – Dec. 2023*<br>
 Next: MS (with Research), Stanford University<br>
 🏅 Georgia Tech PURA Award, Fall 2023
+</div>
+
+<div>
+<img src="{{ site.baseurl }}/assets/img/profile_default.png" style="width: 80px; border-radius: 50%; margin-bottom: 0.5rem;"><br>
+**Gaurav Mahala**<br>
+*Masters student, IIT Bombay (co-advised with [Prof. S Akshay](https://www.cse.iitb.ac.in/~akshayss/), July 2025 – June 2026*<br>
 </div>
 
 <div>
